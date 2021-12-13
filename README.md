@@ -1,4 +1,4 @@
-# View Project Here:
+# View Tableau Dashboard Here:
 https://public.tableau.com/app/profile/joe.bui/viz/Tasty_coRecipeInsights/Insights
 
 # tasty.co-recipe-insights
