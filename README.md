@@ -1,6 +1,6 @@
 # tasty.co-recipe-insights
 
-This project was created to find insights and patterns on recipes from the tasty.co website. 
+This project was created to find insights and patterns on recipes and cuisines from the tasty.co website. These insights include the most common ingredients used, nutritional values, and popularity.
 
 
 # Project overview 
